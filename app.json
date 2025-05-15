@@ -10,7 +10,8 @@
     "newArchEnabled": true,
     "ios": {
       "appleTeamId": "P83ZV6W49Z",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.douglowderexpo.AssetReadTest"
     },
     "android": {
       "adaptiveIcon": {
@@ -47,9 +48,7 @@
       }
     },
     "owner": "douglowderexpo",
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
+    "runtimeVersion": "1.0.0",
     "updates": {
       "requestHeaders": {
         "expo-channel-name": "main"
