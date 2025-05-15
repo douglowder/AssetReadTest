@@ -9,6 +9,7 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
+      "appleTeamId": "P83ZV6W49Z",
       "supportsTablet": true
     },
     "android": {
@@ -37,6 +38,22 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "7c714f0a-f8da-4f6a-9893-dfaa727cd8a3"
+      }
+    },
+    "owner": "douglowderexpo",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "requestHeaders": {
+        "expo-channel-name": "main"
+      },
+      "url": "https://u.expo.dev/7c714f0a-f8da-4f6a-9893-dfaa727cd8a3"
     }
   }
 }
