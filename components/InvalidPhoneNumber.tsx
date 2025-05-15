@@ -16,7 +16,7 @@ const invalidPhoneNumberString = (
 };
 
 export function InvalidPhoneNumber(props: { field: string }) {
-  console.log(JSON.stringify(translations, null, 2));
+  // console.log(JSON.stringify(translations, null, 2));
   return (
     <View>
       <Text>{'en: ' + invalidPhoneNumberString('en', props.field)}</Text>
